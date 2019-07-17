@@ -37,6 +37,7 @@ namespace CADServer
         {
             TopicAcceptExchange();
             Console.WriteLine("按任意值，退出程序");
+            Console.WriteLine("按任意值，退出程序");
             Console.ReadKey();
         }
 
